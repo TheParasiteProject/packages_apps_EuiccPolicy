@@ -6,6 +6,8 @@
 <resources>
     <string name="app_name">SIM Service</string>
 
+    <string name="carrier_list_json" translatable="false"></string>
+    <string name="default_smdp_override" translatable="false"></string>
     <string name="sim_illustration_lottie_mappings_json" translatable="false"></string>
     <string name="sim_slot_mappings_json" translatable="false"></string>
 </resources>
