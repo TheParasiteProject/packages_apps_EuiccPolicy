@@ -16,6 +16,9 @@ android_app {
     privapp_allowlist: "org.lineageos.euicc.xml",
 
     optimize: {
+        enabled: true,
+        shrink: true,
+        optimize: true,
         proguard_flags_files: ["proguard.flags"],
     },
     required: [
